@@ -1,4 +1,5 @@
 *TODOJDK
+.java-version
 
 # git
 .gitignore
@@ -22,6 +23,7 @@ tags
 dot_files
 # Intellij files
 .idea
+**/out/
 
 Makefile.user
 local.properties
